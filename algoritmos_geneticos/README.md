@@ -26,8 +26,8 @@ A partir dessas operações, o algoritmo gera novas populações e busca melhora
 
 O código apresenta a população inicial, a população final, o melhor custo e a melhor solução encontrada, além de exibir o melhor caminho em um gráfico. Abaixo estão exemplos de saída do algoritmo e da representação visual da rota.
 
-![População Inicial](PopulacaoInicial.png)
+![População Inicial](Images/PopulacaoInicial.png)
 
-![População Final](PopulacaoFinal.png)
+![População Final](Images/PopulacaoFinal.png)
 
-![Resultado](Resultado.png)
+![Resultado](Images/Resultado.png)
